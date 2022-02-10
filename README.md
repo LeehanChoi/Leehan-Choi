@@ -8,6 +8,7 @@
 * ✈️ Exploring new places
 * 📷 I share Insights, Apps, and Tips on iOS development in my Instagram
 
+<div align=center>
 
 [![Leehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeehanChoi)](https://github.com/anuraghazra/github-readme-stats)
 
