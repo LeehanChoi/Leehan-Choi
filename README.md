@@ -1,10 +1,8 @@
 ### Hi there 👋
 # An extremely passionate iOS Developer 
 
-* * *
-
 ## About Me 🥳
-* * *
+
 * 📱 iOS Developer 
 * 🥰 Open-Source Contributor
 * ✈️ Exploring new places
