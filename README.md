@@ -12,7 +12,7 @@
 
 <div align=center>
 
-[![Leehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeehanChoi)](https://github.com/anuraghazra/github-readme-stats)
+[![ihanchoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ihanchoi)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align=center>
     
