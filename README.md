@@ -12,7 +12,7 @@
 
 <div align=center>
 
-[![ihanchoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ihanchoi)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ihanchoi&show_icons=true&theme=tokyonight)]
 
 <div align=center>
     
