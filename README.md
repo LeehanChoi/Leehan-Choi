@@ -1,4 +1,5 @@
 ### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=IHAN%20CHOI&fontSize=90&fontColor=)
 # An extremely passionate iOS Developer 
 
 ## About Me 🥳
