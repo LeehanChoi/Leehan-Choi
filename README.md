@@ -1,14 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=IHAN%20&fontSize=90&fontColor=)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=HAN%20&fontSize=90&fontColor=)
 
 ### Hi there 👋
-# An extremely passionate iOS Developer 
+# An extremely passionate iOS Developer & Front-end Developer
 
 ## About Me 🥳
 
-* 📱 iOS Developer 
+* 📱 Wanna be iOS Developer & Front-end Developer
 * 🥰 Open-Source Contributor
 * ✈️ Exploring new places
-* 📷 I share Insights, Apps, and Tips on iOS development in my Instagram
+* 📷 To Capture fleeting moments that make life so special
 
 <div align=center>
 
