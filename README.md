@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=HAN%20&fontSize=90&fontColor=)
 
-### Hi there 👋
-# An extremely passionate iOS Developer & Front-end Developer
+## Hi there 👋
+### An extremely passionate iOS Developer & Front-end Developer
 
-## About Me 🥳
+### About Me 🥳
 
 * 📱 Wanna be iOS Developer & Front-end Developer
 * 🥰 Open-Source Contributor
